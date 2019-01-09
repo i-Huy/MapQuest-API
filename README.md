@@ -18,14 +18,12 @@ many outputs will need to be generated.
 
 • If there are m outputs, the next m lines of input will each describe one output. Each
 output can be one of the following:
+
     – STEPS for step-by-step directions, meaning a brief description of each maneuver
     (e.g., a turn, entering or exiting a freeway, etc.) you would have to make to
     drive from one location to another
-    
     – TOTALDISTANCE for the total distance traveled if completing the entire trip
-    
     – TOTALTIME for the total estimated time to complete the entire trip
-    
     – LATLONG for the latitude and longitude of each of the locations specified in the
     input
     – ELEVATION for the elevation, in feet, of each of the locations specified in the
