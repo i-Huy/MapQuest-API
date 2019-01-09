@@ -28,4 +28,4 @@ output can be one of the following:
     input
     – ELEVATION for the elevation, in feet, of each of the locations specified in the
     input
-![alt text](https://imgur.com/a/QUTxzbM)
+![alt text](https://i.imgur.com/M39e75v.png)
