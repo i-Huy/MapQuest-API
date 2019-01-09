@@ -1,10 +1,9 @@
 # MapQuest-API
-# @date: 12.6.18
+date: 12.6.18
+
 A basic locations/directions/information program using the MapQuest API to retrieve wanted information from user input. Coded with Python.
 
-Program will take input in the following format. It should not prompt the user in any
-way; it should simply read whatever input is typed into the console, and you should
-assume that your user knows the precise input format.
+Program will take input in the following format.
 
 • An integer whose value is at least 2, alone on a line, that specifies how many
 locations the trip will consist of.
@@ -28,28 +27,3 @@ output can be one of the following:
     input
     – ELEVATION for the elevation, in feet, of each of the locations specified in the
     input
-
-Directions: enter input in the following order (separate lines):
-
-# of destinations
-Address for each destination
-# of outputs
-STEPS, TOTALDISTANCE, TOTALTIME, LATLONG, ELEVATION
-
-# get the number of destinations and the name of each destination, return destinations as a list
-
-# take what the user wants to display, return list of steps
-
-# takes the list of destinations and returns a string of directions
-
-# takes the list of destinations and returns the total time
-
-# takes the list of destinations, and returns a string for total distance
-
-# takes list of destinations, return string of elevations
-
-# takes list of destinations, return string of latitudes and longitudes
-
-# execute directives
-
-# main function to run the program
