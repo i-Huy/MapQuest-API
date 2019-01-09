@@ -1,5 +1,4 @@
 # MapQuest-API
-Date: 12.06.2018
 
 A basic locations/directions/information program using the MapQuest API to retrieve wanted information from user input. Built with Python.
 
